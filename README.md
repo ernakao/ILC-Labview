@@ -15,3 +15,5 @@ The architecture used was the parallel architecture
 
 ## How it works
 The "gerador_sine_wave.vi" creates the signal for the motor to follow (y_d), being just an auxiliary program. After the initial run on the auxiliary program, the main program (ILC_Final.vi) runs the ILC control on the system given the number of runs and the proporcional value of the feedback controller (used to stabilize the plant)
+
+A more detailed explanation on the ILC method itself and the project can be found on TCC.pdf (in portuguese), mainly on chapters 3 (introduction to the ILC method) and chapter 5 (running the program on the quanser srv02 motor)
