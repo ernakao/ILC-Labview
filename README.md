@@ -1,6 +1,8 @@
 # ILC-Labview
 Iterative Learning Control on Labview for the Quanser srv02 motor
 
+Project made for the undergrad thesis for the undergraduate degree of mechatronic engineering at EESC usp são carlos
+
 ## ILC Algorithm
 ![image](https://github.com/ernakao/ILC-Labview/assets/109694851/cccd294f-d1c3-4ea0-89b4-f776862ef3c9)
 
